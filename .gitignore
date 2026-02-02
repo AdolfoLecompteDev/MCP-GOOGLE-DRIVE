@@ -1,0 +1,13 @@
+# Archivos de configuración de credenciales
+credentials.json
+token.json
+service_account.json
+
+# Entorno Virtual
+venv/
+__pycache__/
+*.pyc
+
+# Logs y temporales
+*.log
+.DS_Store
