@@ -10,4 +10,4 @@ Este servidor permite que Claude Desktop gestione tu Google Drive y Sheets direc
 ## Configuración
 1. Obtén tu `credentials.json` desde Google Cloud Console (OAuth Desktop App).
 2. Instala dependencias: `pip install -r requirements.txt`.
-3. Ejecuta `server.py` manualmente la primera vez para generar el `token.json`.
+3. Ejecuta `get_token.py` manualmente la primera vez para generar el `token.json`.
